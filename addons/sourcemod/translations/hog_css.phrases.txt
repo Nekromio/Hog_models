@@ -1,0 +1,48 @@
+"Phrases"
+{
+	"Tag"
+	{
+		"#format"	"{1:t}"
+		"en"	"{#ffffff}[{#ff6600}Hog{#ffffff}] {#ff6600}^^^^^\n{1}"
+		"ru"	"{#ffffff}[{#ff6600}Кабан{#ffffff}] {#ff6600}^^^^^\n{1}"
+	}
+	
+    "Revenge solution"
+    {
+		"en"	"{#990000}     ===========\n{#669999}You have decided to take revenge and at the beginning of a new round you will become a Boar !\n{#990000}     ==========="
+		"ru"	"{#990000}     ===========\n{#669999}Вы решили мстить и в начале нового раунда станете Кабаном !\n{#990000}     ==========="
+	}
+
+    "Revenge solution notify everyone"
+	{
+		"#format"	"{1:N}"
+		"en"	"{#000000}The player [{1}] has decided to take revenge and will become a Boar in a new round!"
+		"ru"	"{#000000}Игрок [{1}] решил мстить и станет Кабаном в новом раунде !"
+	}
+
+    "Refusal of revenge"
+    {
+		"en"	"{#990000}     ===========\n{#669999}You have made an informed decision to refuse revenge!\n{#990000}     ==========="
+		"ru"	"{#990000}     ===========\n{#669999}Вы приняли взвешанное решение об отказе мести!\n{#990000}     ==========="
+	}
+
+	"Refusal of revenge notify everyone"
+	{
+		"#format"	"{1:N}"
+		"en"	"{#000000}The player [{1}] decides not to take revenge and will not become a Boar!"
+		"ru"	"{#000000}Игрок [{1}] решение не мстить и не станете Кабаном!"
+	}
+
+    "Notification of the Boar status"
+    {
+        "en"	"{#990000}     ===========\n{#669999}You Boar, go for revenge!\n{#990000}     ==========="
+		"ru"	"{#990000}     ===========\n{#669999}Вы Кабан, вперёд к мести!\n{#990000}     ==========="
+    }
+
+    "Notification of the Boar status notify everyone"
+	{
+		"#format"	"{1:N}"
+		"en"	"{#000000}The player [{1}] has become a Boar and is going to take revenge!"
+		"ru"	"{#000000}Игрок [{1}] стал Кабаном и идёт мстить!"
+	}
+}
